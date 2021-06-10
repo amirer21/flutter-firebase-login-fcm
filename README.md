@@ -29,7 +29,7 @@
         </trust-anchors>
     </base-config>
 </network-security-config>
-------------------------------------------------------------------------------------------------
+
 1)파일 경로 : 프로젝트ROOT\android\app\src\main\AndroidManifest.xml
 2)소스코드 :
  
@@ -40,7 +40,6 @@ android:usesCleartextTraffic="true">
 
 참고 : https://developer.android.com/training/articles/security-config?hl=ko
 참고 : https://mrgamza.tistory.com/639
-------------------------------------------------------------------------------------------------
 
 #추가 
 
